@@ -1,0 +1,1 @@
+Preprocessing pipeline for hyperspectral apple images in the HIPPA project
